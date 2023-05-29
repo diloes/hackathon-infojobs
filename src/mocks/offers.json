@@ -1,0 +1,2916 @@
+{
+  "currentPage": 1,
+  "pageSize": 20,
+  "totalResults": 2876,
+  "currentResults": 20,
+  "totalPages": 114,
+  "availableSortingMethods": [
+     "relevancia-desc",
+     "updated-desc"
+  ],
+  "sortBy": "relevancia-desc",
+  "sinceDate": "ANY",
+  "items": [
+     {
+        "id": "237d0995b54317bf56347856a0f7d0",
+        "title": "Desarrollador/a Web senior",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Sant Cugat del Vall??s",
+        "link": "https://www.infojobs.net/sant-cugat-del-valles/desarrollador-web-senior/of-i237d0995b54317bf56347856a0f7d0",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-17T15:33:24.000Z",
+        "updated": "2023-05-17T15:33:24.000Z",
+        "author": {
+           "id": "961952524526202350693215444708",
+           "privateId": 48390690,
+           "name": "Aubay",
+           "uri": "https://aubay.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/e4/e4ec47ea-0bc4-4356-865e-857a2e3ea9e9?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NDUwMjg0NDEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9lNC9lNGVjNDdlYS0wYmM0LTQzNTYtODY1ZS04NTdhMmUzZWE5ZTkiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ExjpNpgsEyPrf0TczI0kydZmTEdfE82hF9C4BuyjubJwSCu6a1rH6KntdArCD3rsjtVpnN7EEBkqFRoUS8_pkzuv197QsjN4Hx_4sXetbFhM98cbvjN_i1OEWptkKev9sYxXRwgycdnK5ktEffWVuBzq1CxUuu2iStaurU9zU9gWdjx1uxfMbDxotrtAsfUjl5Sp5Albm42Rx2U3mgShfsRiQ3Pun5vHHzAGX_AiZCb-qDoMmmZmmm95iqBu1WvRmMgf1uIv4mCMdAsg6BZKfcmejPHKyE9yD7-S0D1Y-xR4AbZUdooWoVYvV9fWjZ9rFB11jIKW8Z6OzYQQowtdlQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "- JavaScript - HTML - CSS - Experiencia en contacto con los clientes. Modalidad de trabajo hibrida (3 días teletrabajo y 2 días presenciales) Oficinas en Sant Cugat del Vall??s*Se valorará positivamente certificado de discapacidad del 33%",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "c033f703384465a9152d727c92568e",
+        "title": "Desarrollador web",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-web/of-ic033f703384465a9152d727c92568e",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 150,
+           "value": "1.200 €"
+        },
+        "salaryMax": {
+           "id": 150,
+           "value": "1.200 €"
+        },
+        "salaryPeriod": {
+           "id": 2,
+           "value": "Bruto/mes"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-17T11:18:32.000Z",
+        "updated": "2023-05-17T11:39:26.000Z",
+        "author": {
+           "id": "98565552505357767371723017033726806444",
+           "privateId": 30806176450,
+           "name": "LIGHTBOX ACADEMY SL.",
+           "uri": "https://www.infojobs.net/lightbox-academy-sl./em-i98565552505357767371723017033726806444",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/06/063f8e77-dd5e-4bcc-a1d1-49fbb6b36761?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTcyMDc4NTQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNi8wNjNmOGU3Ny1kZDVlLTRiY2MtYTFkMS00OWZiYjZiMzY3NjEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.J1XmBPofFDNaNHvoAJYj1MWcNkyAVhokO8rGjW4wzTarev2SSLEoYJTnN07KVKbGBEOau-M_AVXAuuM7coTLXrKAfCRKfXSld6ZxB3W9i9D2WXwx566S9VgYzQQyPgvNoOCgGcy1Cp6M83lI251Dwj2WnEq5kNpalcwn4gWufTZnKVvIyQb9oGEdyIl1KGEl-8LnBGnnKD4hfGjjhxc-7CIT0s5DfH0yiot-MesxeHTMJRe8ZWOdvfV-wtlc8KtNnu7W0m6t8-R4VF-OQMbShw0361Cw5AVSj3tjRoO94HbICVY553jxwD1H-dysSLb6B0NVUs6Bb-yxUx-C9ni4Fg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Conocimiento de Wordpress
+- Conocimiento del sistema operativo Windows
+- Conocimiento de redes: La escuela está equipada con su propio servidor y necesitamos que la persona seleccionada se encargue de su mantenimiento y optimización.
+- Conocimiento de servidores de licencias: office 365, Addobe CC, Autodesk, The Foundry, Maxon...
+- Habilidad en la instalación de cualquier tipo de software. 
+- La persona seleccionada se encargará de la optimización de máquinas, discos duros, etc.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "1.200€ - 1.200€ Bruto/mes",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "0b0fb2cc9845e180941ddc0b8ecc8e",
+        "title": "Desarrollador/a-programador/a web",
+        "province": {
+           "id": 6,
+           "value": "Asturias"
+        },
+        "city": "Oviedo",
+        "link": "https://www.infojobs.net/oviedo/desarrollador-programador-web/of-i0b0fb2cc9845e180941ddc0b8ecc8e",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3113,
+           "value": "Sistemas"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-10T11:14:05.000Z",
+        "updated": "2023-05-17T11:30:03.000Z",
+        "author": {
+           "id": "735a9b4e5d414a8da89006f41d32c3",
+           "privateId": 14471450164,
+           "name": "Orange España Servicios de Telemárketing",
+           "uri": "https://orange-espana.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/cd/cdfb7f95-beee-43aa-b666-f5a410c7bab6?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTYzOTEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9jZC9jZGZiN2Y5NS1iZWVlLTQzYWEtYjY2Ni1mNWE0MTBjN2JhYjYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.nE9PqUuj_E4qNo-v7U5JSySTOkI43cpv6dZAI1NImTkox7POy6bjIITj69JN9ustEapjR21WqgV4O4DKULgfiN1A_Qik_hE475jS_FOY7gBraCJ3ea1_8V6UGgzPx8ed67hAI9qB_BtbJBcqTv8RBoSrc7r_Lc6MLYwT_V-SdakXjxOfkTimvveA_BWrRxjmYi9OL7IJGv_xWttoo5TnC0jK0iDwgzHUBm2t2fQOchntIjkm8RlLs6xOm0XCXZ71C8m8V3RZPbjjNkf8RggDRvAeQctiEOjk5saPYsT30RBMkO4gLTfxjlWuF0gzvEmaHkOhg_zWS_9emRsMKwvpsw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Experiencia de al menos un año en puestos de Programador/a web
+- Formación profesional en desarrollo de aplicaciones web, multiplataforma.
+- Conocimientos de programación HTML/CSS/JAVASCRIPT/PHP y SQL
+- Administración de base de datos (preferentemente PowerBi y QlikSense).",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "05837ccd9849e3a8ff4e169e77a250",
+        "title": "Desarrollador/a Web .NET",
+        "province": {
+           "id": 46,
+           "value": "Santa Cruz de Tenerife"
+        },
+        "city": "Santa Cruz de Tenerife",
+        "link": "https://www.infojobs.net/santa-cruz-de-tenerife/desarrollador-web-.net/of-i05837ccd9849e3a8ff4e169e77a250",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-26T12:49:54.000Z",
+        "updated": "2023-05-17T14:00:03.000Z",
+        "author": {
+           "id": "98555455534651726545671022288001509134",
+           "privateId": 43487326156,
+           "name": "HA-CONVFACT SL.",
+           "uri": "https://www.infojobs.net/ha-convfact-sl./em-i98555455534651726545671022288001509134",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Capacidad resolutiva y habilidades comunicativas.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "0c6026a95f491297c1c17accb20a95",
+        "title": "Desarrollador Web",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/desarrollador-web/of-i0c6026a95f491297c1c17accb20a95",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3109,
+           "value": "ERP, CRM, Business Intelligence"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "published": "2023-04-17T08:09:55.000Z",
+        "updated": "2023-05-15T10:00:03.000Z",
+        "author": {
+           "id": "181354424538203931536055154971",
+           "privateId": 1184788778,
+           "name": "Discama 3000 SL",
+           "uri": "https://www.infojobs.net/discama-3000-sl/em-i181354424538203931536055154971",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Más de 20.000€",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "04e88f9c99438c80aef886a554bf20",
+        "title": "Desarrollador Web",
+        "province": {
+           "id": 51,
+           "value": "Vizcaya/Bizkaia"
+        },
+        "city": "Bilbao",
+        "link": "https://www.infojobs.net/bilbao/desarrollador-web/of-i04e88f9c99438c80aef886a554bf20",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 260,
+           "value": "18.000 €"
+        },
+        "salaryMax": {
+           "id": 1320,
+           "value": "23.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-24T12:00:38.000Z",
+        "updated": "2023-05-15T13:30:03.000Z",
+        "author": {
+           "id": "98575355544652841041014014105823701311",
+           "privateId": 20678655936,
+           "name": "The Last Dock, S.L.",
+           "uri": "https://www.infojobs.net/the-last-dock-s.l./em-i98575355544652841041014014105823701311",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/f2/f2e292bb-0071-49b0-8d43-d77f1b69fbd0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTgzOTY0MTcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9mMi9mMmUyOTJiYi0wMDcxLTQ5YjAtOGQ0My1kNzdmMWI2OWZiZDAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.L0ySPRfCHh3AMtOO5icPxl2tbX-uwTf2is9FRHECoybIFtCTtJ6I-qbqwQlKPXaCDntjdXcpUF2elovsOh1WlSEEO7Xwwpqcmp26fS_ZHBf-y4d2q-iL6SNgMsHe2dT3FMbPaLYwObrJB7yGCfRezMha7fv0zH8ZZR8wMwImrV-zpSjmQTCeo3VW4SZ7bfzvRWi8I5InkmPy8yAukn9n_HhMPAB7Sn2pKidpjptDB1iCp9VJhctq-a7JA2gSye91s6qq1DhrjBHzJiQalNqUnMkVeHujAk-uFpx6P_E5ypvmFHfVc7adLvZQG8NAE3EK5ZYYnfFgacqPNFBnmKRyIQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Mínimo 2 años de experiencia demostrable en planificación y gestión de proyectos online en agencias digitales",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "18.000€ - 23.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "d4a4d2761148079cdb41341ed6bd17",
+        "title": "Desarrollador/a web WordPress",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Castelldefels",
+        "link": "https://www.infojobs.net/castelldefels/desarrollador-web-wordpress/of-id4a4d2761148079cdb41341ed6bd17",
+        "category": {
+           "id": 110,
+           "value": "Marketing y comunicación"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3071,
+           "value": "Marketing"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 50,
+           "value": "Bachillerato"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-12T11:54:47.000Z",
+        "updated": "2023-05-12T11:54:47.000Z",
+        "author": {
+           "id": "98545355485250739081856012044442205857",
+           "privateId": 14201756826,
+           "name": "IZQUIERDO MAS MOTTER CONSULTING SLU",
+           "uri": "https://www.infojobs.net/izquierdo-mas-motter-consulting-slu/em-i98545355485250739081856012044442205857",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Disponibilidad de Incorporación Inmediata.
+- Experiencia demostrable con proyectos reales en Diseño y Desarrollo Web.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "041d839e724f96b0ca84f63ac39bfa",
+        "title": "Desarrollador Web en PrestaShop",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-web-prestashop/of-i041d839e724f96b0ca84f63ac39bfa",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 270,
+           "value": "24.000 €"
+        },
+        "salaryMax": {
+           "id": 1340,
+           "value": "26.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 10,
+           "value": "Indiferente"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-21T09:04:48.000Z",
+        "updated": "2023-05-12T10:30:02.000Z",
+        "author": {
+           "id": "83150524528106671413235051630",
+           "privateId": 182069299,
+           "name": "PowerShop",
+           "uri": "https://www.infojobs.net/powershop/em-i83150524528106671413235051630",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "24.000€ - 26.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "1ea78a8e334e4abf9f544aaf4846fc",
+        "title": "Desarrollador/a web",
+        "province": {
+           "id": 41,
+           "value": "Salamanca"
+        },
+        "city": "Salamanca",
+        "link": "https://www.infojobs.net/salamanca/desarrollador-web/of-i1ea78a8e334e4abf9f544aaf4846fc",
+        "category": {
+           "id": 110,
+           "value": "Marketing y comunicación"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3071,
+           "value": "Marketing"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-05T09:35:15.000Z",
+        "updated": "2023-05-12T10:00:02.000Z",
+        "author": {
+           "id": "98525257534352657067325023054081202274",
+           "privateId": 47971276722,
+           "name": "AFC INVESTMENTS SL.",
+           "uri": "https://www.infojobs.net/afc-investments-sl./em-i98525257534352657067325023054081202274",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "707d4bf42748b68332cee18ef37e63",
+        "title": "Desarrollador Frontend Mobile-Web",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-frontend-mobile-web/of-i707d4bf42748b68332cee18ef37e63",
+        "category": {
+           "id": 180,
+           "value": "Otros"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3123,
+           "value": "Sin especificar"
+        },
+        "salaryMin": {
+           "id": 1350,
+           "value": "28.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-11T10:32:48.000Z",
+        "updated": "2023-05-11T10:32:48.000Z",
+        "author": {
+           "id": "98565556565648666973712018073920408276",
+           "privateId": 32799501396,
+           "name": "BEIGAR CONSULTORES",
+           "uri": "https://beigar.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/f7/f7dab9c1-cd08-48d1-b7b4-da3bd9ec1057?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTA1Nzc3NzQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9mNy9mN2RhYjljMS1jZDA4LTQ4ZDEtYjdiNC1kYTNiZDllYzEwNTciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.PApnTIXcX-ENZmDEYSmc9d_tzQpJ6eOaYxqxdapJIJoh3PtvJgFsbEcRNPzVshFpWj1zF_Erq91Hf-N9iCb3Yv6RaV5pPqgX2-s76JegacbBgmskhTxU7sLz3cx31VlPc84H-umiv4AEvSpPIIeYmOpvOUnn4bzywi0bMmHvntxtZeWzmr1U6Y-o-NJ4OL0SBjTAT473mnKn0RMLpxqFJ9e7FNe9YiVQMmP1HP2qcBMljj3tob90HnOXo8M1jAz_cgGlMqcxrNrVsZbMN2H8wSSja2VsST9cbfDx6OiaaCfBtUBUkzKVATYEkOQo6N7n0VuBsDPHuJ5q3uGFJCyv2A&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Buscamos alguien con experiencia en desarrollo de páginas web integradas en móviles, tabletas u otros dispositivos, que conozca las restricciones que esto pueda implicar; con experiencia en desarrollo con React o Angular y maquetación de componentes e implementación de estos en Storybook.
+
+•	Desarrollo de páginas web basadas en React o Angular. 
+•	Desarrollo de los componentes en Storybook.
+•	Maquetación y ajuste del detalle en la parte frontal.
+•	Optimización de rendimiento para los navegadores de los dispositivos en uso.
+•	Test end to end de las aplicaciones desarrolladas
+
+Se valora mucho personas con inquietudes por aprender y que le atraigan retos tecnológicos relacionados con lA.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "28.000€ - 36.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "27339ca095457f91841b411bd962f3",
+        "title": "Desarrollador web para e-commerce",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Montorn??s del Vall??s",
+        "link": "https://www.infojobs.net/montornes-del-valles/desarrollador-web-para-commerce/of-i27339ca095457f91841b411bd962f3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-03-30T16:54:45.000Z",
+        "updated": "2023-05-11T19:30:02.000Z",
+        "author": {
+           "id": "98545357515255657868825021263615909237",
+           "privateId": 41294144322,
+           "name": "ANDREANI MHS IBERICA SL",
+           "uri": "https://www.infojobs.net/andreani-mhs-iberica-sl/em-i98545357515255657868825021263615909237",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "a4bec6ff574d00a175effa9b8b4181",
+        "title": "Desarrollador web senior",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/desarrollador-web-senior/of-ia4bec6ff574d00a175effa9b8b4181",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 1350,
+           "value": "28.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-04T13:46:58.000Z",
+        "updated": "2023-05-11T14:00:03.000Z",
+        "author": {
+           "id": "98545454535555737873844020167342301063",
+           "privateId": 38145542102,
+           "name": "INITIUM SOFTWARE SL.",
+           "uri": "https://www.infojobs.net/initium-software-sl./em-i98545454535555737873844020167342301063",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/59/59d9f649-5b6d-4acf-941e-9e0bbff719d0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1ODc1MDI0OTMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy81OS81OWQ5ZjY0OS01YjZkLTRhY2YtOTQxZS05ZTBiYmZmNzE5ZDAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EL7HZFaun0-1YBhPBdTUVkZEvnaJzL2OPjUrdAr7gFCb9Kk9TPfN7hPwiDo0gtpN1XxKpq0iQsnK9VYC3Bh8ZZHi0VLLoFuJwllrspIRIyZwL9Dtrao5taMNmMkeSxm3wHVKOEU5j8X-NBIjB9g_Xg8jcluxw09jp9sX3Q4tX10FLbdvnY7WHLvPV4N9Jk6NMMzLSaSZrDMJdmTBgTgV4Jf6LHe9qgbff-OchatiojWOJ5LubNvRdzCsPRkvA4ImHQnvBvxch88Y5sLQUC8L2_BKsgoNV-c6l1QxGmR0h2NQh3rTVmTJ_ifRg1_TuzbF_2T-PbyF_tQgJWTCtD5l6Q&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Jquery
+Javascrpt
+Maquetado Web ( Css, Less, Sass, Html)
+Control de versions (Git, gittflow
+Manejo de Frameworkd de Desarroloo Symfony 4+
+PHP 5.0+ (Orientado a objetos)
+Desarrollo orientado a servicios (Rest/ Resfull)
+ORM Doctrine
+MySQL
+Definición de Consultas con estándar Sq
+Apache",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "28.000€ - 36.000€ Bruto/año",
+        "multiProvince": true,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "2685a19b194829bbf128b7c890e34a",
+        "title": "DESARROLLADOR WEB",
+        "province": {
+           "id": 43,
+           "value": "Sevilla"
+        },
+        "city": "Sevilla",
+        "link": "https://www.infojobs.net/sevilla/desarrollador-web/of-i2685a19b194829bbf128b7c890e34a",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryMax": {
+           "id": 285,
+           "value": "33.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-10T12:43:10.000Z",
+        "updated": "2023-05-10T12:43:10.000Z",
+        "author": {
+           "id": "961757524526202350893215555770",
+           "privateId": 48730601,
+           "name": "ColaVoro",
+           "uri": "https://colavoro.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/87/875ee7af-13ef-4269-b7eb-9c89ce637300?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTU2NzEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84Ny84NzVlZTdhZi0xM2VmLTQyNjktYjdlYi05Yzg5Y2U2MzczMDAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.KmD5yNbuJlbaun4wCHMLECer9jAajGRkUGsv_lnYdUR45wkFbVzecrUZ2Mh9SBSfRd2ww5d_zwvD4dTMwiBzwgNFHVQnFk8ZLnjqhD5KbLDeZGg--C1PCSE7ZF2Xquj3zoxEwfJgsyZ1QU0tztYCUsDgKampGtLWx-VpZi7gPzF84n5d1lj4VVvbhm9xHgE9MrMzJhYC9Jg8Uo7jG44t7nFF0rXmGLxabnIrFXVJr4whA7587XuWd6Q-JkC1vgNN_ngyfUQKrlq2BPS_uQCxycMSEnv6Zcg5tjc9_OG1GRnpUrDBnm8vaAhM-mI_u9nGVI0NeRPBvycvbIAc9bEHMg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Experiencia en desarrollo web, principalmente en Sencha Ext
+- Conocimientos de inglés a nivel de lectura
+
+Deseable: Java, Springboot, SVG, herramienta inskca, contenedores Kubernetes",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "30.000€ - 33.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "fdb215ce19465e8a0812be828ec595",
+        "title": "Desarrollador/a web con Prestashop | Híbrido",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/desarrollador-web-con-prestashop-hibrido/of-ifdb215ce19465e8a0812be828ec595",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-09T09:20:59.000Z",
+        "updated": "2023-05-09T09:20:59.000Z",
+        "author": {
+           "id": "f8f29b4b1c404f96a2da79b949fe6a",
+           "privateId": 31259821352,
+           "name": "ALTEN",
+           "uri": "https://alten.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/12/12bddf65-deb1-4ed4-a344-4879c768f52c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NzQxNjI5MDksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xMi8xMmJkZGY2NS1kZWIxLTRlZDQtYTM0NC00ODc5Yzc2OGY1MmMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.FgQhSVWf-1Y8y3GXZNAvkbQX4a_PN_9uc0NUGKS3d764qqJCZF1AXd-KsgFo9NfiL0GbVTGBrNbYnzsRzDMMl0Hkg8wH1JeevolUZCOSa1WfTCKJREs7mCD_x1monRGyjqo4NebU97fdzvjoSRBT4RFQymGLKmEcMjEns6ve2TTkjAW5Ty4fwrhI_UMMju3_az5FCwoefvYmvmulAFbxUUTHt4ljeEA25phYftIfC_OW8WK8kjvrBxARoiDmmMas_puwSDXPFyl6Q_aZHygOgKTDR6HbToMLeANfBvxbaeG-LqRZyY_qhLacmGdG7aymJo6LcPsEwHKvuJNS7D1FeA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia de mínimo 1 año como desarrollador/a web
+Experiencia de 1 año con Prestashop
+Conocimientos en PHP, Javascript y Mysql
+Deseable conocimientos en Laravel",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "5ec2e5ff1549df942d9358c6a67d5f",
+        "title": "DESARROLLADOR WEB JAVA BACK TELETRABAJO",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-web-java-back-teletrabajo/of-i5ec2e5ff1549df942d9358c6a67d5f",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 4,
+           "value": "Al menos 4 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-09T08:26:10.000Z",
+        "updated": "2023-05-09T08:26:10.000Z",
+        "author": {
+           "id": "66565254564054758269764007124889105572",
+           "privateId": 2063893948,
+           "name": "KRELL CONSULTING & TRAINING",
+           "uri": "https://www.infojobs.net/krell-consulting-training/em-i66565254564054758269764007124889105572",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/04/04b4064f-9021-4532-880e-3cc511184862?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzkyNTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNC8wNGI0MDY0Zi05MDIxLTQ1MzItODgwZS0zY2M1MTExODQ4NjIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.PEaV7dec8hCxAHMqdopXtjkYItlD8KpSOvYxzmZ6yMHCcHOnjt9Q-PU-C2bpm9F8S8EGK-f0RucMPXsskmUsFK8dMT-90r5Q0Z_3RDvSe_XPdsRdlbwI52lkHNmQaSb_1l2N7ADwHOObDJX5EpTCB4dEoSKq-qr89FgndoVy0xlXGfGUniIkKTTjuXNvVwVn_mA3BmwGysRitjEOudtYLxPvNHEjfwfBIn4GGJPfGkLlCVd3cmQL74UxlSvpaQvhSYTDgRirpnA6zTcsHLYKqnzdTp50OKUeATUoNkEduMq9OEbRtEhZmcUHzzITW_YuZcwQCootcX-bhQjiAHhuVQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia en Java 1.8, JPA, JSF, Spring, Servicios REST y/o SOAP, PL-SQL.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "21ecb13bdf4ee2a7ead56cbea8ca3d",
+        "title": "DESARROLLADOR/A WEB - ANGULAR",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-web-angular/of-i21ecb13bdf4ee2a7ead56cbea8ca3d",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-03T13:24:39.000Z",
+        "updated": "2023-05-04T13:20:27.000Z",
+        "author": {
+           "id": "98565450545150881121088015175230901559",
+           "privateId": 25229698856,
+           "name": "Xplain AG Ibérica SL",
+           "uri": "https://www.infojobs.net/xplain-ag-iberica-sl/em-i98565450545150881121088015175230901559",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/23/23b40ffc-7489-41c3-8b4c-16e029d602fc?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1ODEzMDEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8yMy8yM2I0MGZmYy03NDg5LTQxYzMtOGI0Yy0xNmUwMjlkNjAyZmMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.H3gDtffCFI2T-nSrCCChM5ku3sOYwXgci6_woTCjSJX4O9G-LnLLmVsPZ65iJFaXM-pmSKtoDHbtgbfRi0ZfAPMS_NGIAFAlcOrGD9UvzPDfnwyY_X5wSrmjgRpV2bDCN732hRwpHVdYeaNZeoVGAMSLekQGxiADuHYXXnaV1EB5PvFswqpplsZSWSVpCTP0rkKCn2yMMwzL2gkcpV5tscZFu7lLJTLiLyRYTexrLvEoM8G8BbT8z79-8qbCsELbUXRQFKktvIPOdHKUwiu0VlsVUduTHXOlecVysbIV96XC11EmQLwCiEfhnroTvJyN02pWYBJq-xMFzZvOvI0cuA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Conocimientos sólidos en el desarrollo de software, en especial en la programación con Angular. 
+- Buenos conocimientos de inglés. Hablamos a diario con nuestros compañeros en Suiza.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "30.000€ - 36.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "09eb50c8834b4e923ccda8d1fe31dc",
+        "title": "DESARROLLADOR WEB WORDPRESS",
+        "province": {
+           "id": 34,
+           "value": "Málaga"
+        },
+        "city": "Málaga",
+        "link": "https://www.infojobs.net/malaga/desarrollador-web-wordpress/of-i09eb50c8834b4e923ccda8d1fe31dc",
+        "category": {
+           "id": 110,
+           "value": "Marketing y comunicación"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3071,
+           "value": "Marketing"
+        },
+        "salaryMin": {
+           "id": 1300,
+           "value": "20.000 €"
+        },
+        "salaryMax": {
+           "id": 1310,
+           "value": "22.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 6,
+           "value": "Intensiva - Mañana"
+        },
+        "study": {
+           "id": 10,
+           "value": "Sin estudios"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-01T10:55:17.000Z",
+        "updated": "2023-05-01T10:55:17.000Z",
+        "author": {
+           "id": "98575150495252676978843022283981702205",
+           "privateId": 44094898500,
+           "name": "CENTRALIZA TIC SL.",
+           "uri": "https://www.infojobs.net/centraliza-tic-sl./em-i98575150495252676978843022283981702205",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "20.000€ - 22.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "40aa24e9ad447ab52991ed5eb01e09",
+        "title": "Desarrollador/a Web experto en Wordpress",
+        "province": {
+           "id": 20,
+           "value": "Las Palmas"
+        },
+        "city": "Las Palmas de Gran Canaria",
+        "link": "https://www.infojobs.net/las-palmas-de-gran-canaria/desarrollador-web-experto-wordpress/of-i40aa24e9ad447ab52991ed5eb01e09",
+        "category": {
+           "id": 50,
+           "value": "Diseño y artes gráficas"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3030,
+           "value": "Diseño web"
+        },
+        "salaryMin": {
+           "id": 1260,
+           "value": "14.000 €"
+        },
+        "salaryMax": {
+           "id": 255,
+           "value": "15.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-04-28T10:25:31.000Z",
+        "updated": "2023-04-28T10:25:31.000Z",
+        "author": {
+           "id": "954449524538006480126625351040",
+           "privateId": 1331999018,
+           "name": "SERVIDIS FACILITY SERVICES",
+           "uri": "https://www.infojobs.net/servidis-facility-services/em-i954449524538006480126625351040",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b2/b2f07d30-8979-4d85-bb10-5bb856cd1cfa?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NjM3NTc5MDEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iMi9iMmYwN2QzMC04OTc5LTRkODUtYmIxMC01YmI4NTZjZDFjZmEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.k9ge9EePvPbgxDGr9WS5Z84an_6YjtODN1LP_y2A1mcJYq7arFESvzDtwla_uBMV8epuucPfrSTDbKygcVsXpgE_alUzsDD9SH1BkXVToie0DnFnMwKM-heKfMAzrPstf_buBdNUyLN3ffgdrJbyct3O5Sla6Msqmoh4KNEb0VctTAXoZLkB1ZpCjPnUmTgjh1kE78QwWffMYh9NV_0FcEG4Egyx2Vt0L6Eo-refeUJjIowla7l-hI_7ReRmydT0N7dCzKIZKud3_dpFt0TS5X4QWF9L929b1kzPiiVh6j_RsUUDG9G2r9u9slyHxi04f88D9I87sph9e2olHWELjw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Técnico superior de desarrollo Web o similares.
+- Disponibilidad de Incorporación Inmediata",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "14.000€ - 15.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "d157e223194c7aa1a6fa247bca517f",
+        "title": "Desarrollador/a Web",
+        "province": {
+           "id": 20,
+           "value": "Las Palmas"
+        },
+        "city": "Telde",
+        "link": "https://www.infojobs.net/telde/desarrollador-web/of-id157e223194c7aa1a6fa247bca517f",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-27T13:00:35.000Z",
+        "updated": "2023-04-27T13:00:35.000Z",
+        "author": {
+           "id": "768349524533001550825155452532",
+           "privateId": 535210374,
+           "name": "Contactel Teleservicios",
+           "uri": "https://contactel.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/39/395e93a0-5cca-40d0-8bc9-b12565cb79d0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTQxOTksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8zOS8zOTVlOTNhMC01Y2NhLTQwZDAtOGJjOS1iMTI1NjVjYjc5ZDAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.cuqsvprXTSj2smXP25o-YWdK7aldHz8LWPK56CX8Duc5NiIS5hsSFjHSSwBsCUCXzE9Ezq49NgpaGuT1v6nZAHq_PhZ4BZKqiEoXjuL7ZgRbHmgSDcVpGbL99B-lBPIsir1lZ-YYb6SCYhuzzpHAavmgksFHx40xcdFg-BcRcSyxVolPCMEC3--cmCV3PP8Uast888nCkTqhk2OPSMkyLmGLBas6qzXelxiMpfQ21IBrLG065-hraD75YsYZ5aTRqTBhj2SplI3kQ31nimnk6cpJMdxt8I-Ct7ruxBPrv1qTnasE66iz9DlaoMgWN3azhkknS_S--DMww58QwNBpzQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Se requiere:
+- Ciclo Superior en Desarrollo de Aplicaciones Web o similar.
+- Al menos 2 años de experiencia con lenguajes de programación JavaScript, TypeScript, HTML5 y en bibliotecas React.
+- Valorable conocimientos en Rust.
+- Trabajo en equipo.
+- Autonomía
+-Autoaprendizaje
+- Organización y método.
+Se ofrece:
+Formación personalizada y a cargo de la empresa.
+Proyectos de alta envergadura.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "dbc6d9d34f4392b321d6627f53882d",
+        "title": "Desarrollador Web Frontend Backend PHP",
+        "province": {
+           "id": 4,
+           "value": "Alicante/Alacant"
+        },
+        "city": "Alcoy/Alcoi",
+        "link": "https://www.infojobs.net/alcoy-alcoi/desarrollador-web-frontend-backend-php/of-idbc6d9d34f4392b321d6627f53882d",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3114,
+           "value": "Telecomunicaciones"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-04-28T08:51:04.000Z",
+        "updated": "2023-04-28T08:51:04.000Z",
+        "author": {
+           "id": "66535157545548656883651008074640901487",
+           "privateId": 2363275750,
+           "name": "ADSALSA PUBLICIDAD",
+           "uri": "https://www.infojobs.net/adsalsa-publicidad/em-i66535157545548656883651008074640901487",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a3/a38541bf-34f0-489d-b3f2-c64d217e432a?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTM2NzI4MDIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hMy9hMzg1NDFiZi0zNGYwLTQ4OWQtYjNmMi1jNjRkMjE3ZTQzMmEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.cQXZx8KhyTeXA7VsIVf1DNmD8b4D12V2aBwA1VlZcz3eek5nHubGRIIAjnmsPgc_igtTR7yLUSOwtRPiFwIw70cLrsmrO57a5pAIvPVi8l_2BKdD558C98MXiYIQYEwubgUhaVtsAGgW8C6sLN_6lmWjyv-vFJ3bcImTIZ2EIIkfaBvDU3MKqdCZjb6aNTQ0g6wBLSU0zBDGOUYA_V1yMWmNW1DaM5AUxZLGCNIwUfPuaYsl0uCgmPgLHUtzWcfAY5SGbw2KKvmm2tMbe0dIf2pamdq41ueX63kHYdBpdho7UHyOaO7KuX15QwOud2dpZ_q9bchU33IKIRWk39_LhA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     }
+  ],
+  "dataLayer": {
+     "search_terms": "desarrollador-web",
+     "offer_search_page": "1",
+     "offer_search_page_limit": "20",
+     "region_level2_id": "0"
+  },
+  "queryParameters": {
+     "study": [],
+     "province": [
+        "seleccionar"
+     ],
+     "salaryPeriod": "seleccionar",
+     "city": [],
+     "contractType": [],
+     "query": "desarrollador-web",
+     "experienceMin": [],
+     "category": [
+        "-"
+     ],
+     "workDay": [],
+     "teleworking": []
+  },
+  "eligibleForAutomaticAlertCreation": false,
+  "offers": [
+     {
+        "id": "237d0995b54317bf56347856a0f7d0",
+        "title": "Desarrollador/a Web senior",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Sant Cugat del Vall??s",
+        "link": "https://www.infojobs.net/sant-cugat-del-valles/desarrollador-web-senior/of-i237d0995b54317bf56347856a0f7d0",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-17T15:33:24.000Z",
+        "updated": "2023-05-17T15:33:24.000Z",
+        "author": {
+           "id": "961952524526202350693215444708",
+           "privateId": 48390690,
+           "name": "Aubay",
+           "uri": "https://aubay.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/e4/e4ec47ea-0bc4-4356-865e-857a2e3ea9e9?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NDUwMjg0NDEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9lNC9lNGVjNDdlYS0wYmM0LTQzNTYtODY1ZS04NTdhMmUzZWE5ZTkiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ExjpNpgsEyPrf0TczI0kydZmTEdfE82hF9C4BuyjubJwSCu6a1rH6KntdArCD3rsjtVpnN7EEBkqFRoUS8_pkzuv197QsjN4Hx_4sXetbFhM98cbvjN_i1OEWptkKev9sYxXRwgycdnK5ktEffWVuBzq1CxUuu2iStaurU9zU9gWdjx1uxfMbDxotrtAsfUjl5Sp5Albm42Rx2U3mgShfsRiQ3Pun5vHHzAGX_AiZCb-qDoMmmZmmm95iqBu1WvRmMgf1uIv4mCMdAsg6BZKfcmejPHKyE9yD7-S0D1Y-xR4AbZUdooWoVYvV9fWjZ9rFB11jIKW8Z6OzYQQowtdlQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "- JavaScript
+- HTML
+- CSS
+- Experiencia en contacto con los clientes. 
+
+Modalidad de trabajo hibrida (3 días teletrabajo y 2 días presenciales)
+Oficinas en Sant Cugat del Vall??s
+
+*Se valorará positivamente certificado de discapacidad del 33%",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "c033f703384465a9152d727c92568e",
+        "title": "Desarrollador web",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-web/of-ic033f703384465a9152d727c92568e",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 150,
+           "value": "1.200 €"
+        },
+        "salaryMax": {
+           "id": 150,
+           "value": "1.200 €"
+        },
+        "salaryPeriod": {
+           "id": 2,
+           "value": "Bruto/mes"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-17T11:18:32.000Z",
+        "updated": "2023-05-17T11:39:26.000Z",
+        "author": {
+           "id": "98565552505357767371723017033726806444",
+           "privateId": 30806176450,
+           "name": "LIGHTBOX ACADEMY SL.",
+           "uri": "https://www.infojobs.net/lightbox-academy-sl./em-i98565552505357767371723017033726806444",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/06/063f8e77-dd5e-4bcc-a1d1-49fbb6b36761?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTcyMDc4NTQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNi8wNjNmOGU3Ny1kZDVlLTRiY2MtYTFkMS00OWZiYjZiMzY3NjEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.J1XmBPofFDNaNHvoAJYj1MWcNkyAVhokO8rGjW4wzTarev2SSLEoYJTnN07KVKbGBEOau-M_AVXAuuM7coTLXrKAfCRKfXSld6ZxB3W9i9D2WXwx566S9VgYzQQyPgvNoOCgGcy1Cp6M83lI251Dwj2WnEq5kNpalcwn4gWufTZnKVvIyQb9oGEdyIl1KGEl-8LnBGnnKD4hfGjjhxc-7CIT0s5DfH0yiot-MesxeHTMJRe8ZWOdvfV-wtlc8KtNnu7W0m6t8-R4VF-OQMbShw0361Cw5AVSj3tjRoO94HbICVY553jxwD1H-dysSLb6B0NVUs6Bb-yxUx-C9ni4Fg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Conocimiento de Wordpress
+- Conocimiento del sistema operativo Windows
+- Conocimiento de redes: La escuela está equipada con su propio servidor y necesitamos que la persona seleccionada se encargue de su mantenimiento y optimización.
+- Conocimiento de servidores de licencias: office 365, Addobe CC, Autodesk, The Foundry, Maxon...
+- Habilidad en la instalación de cualquier tipo de software. 
+- La persona seleccionada se encargará de la optimización de máquinas, discos duros, etc.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "1.200€ - 1.200€ Bruto/mes",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "0b0fb2cc9845e180941ddc0b8ecc8e",
+        "title": "Desarrollador/a-programador/a web",
+        "province": {
+           "id": 6,
+           "value": "Asturias"
+        },
+        "city": "Oviedo",
+        "link": "https://www.infojobs.net/oviedo/desarrollador-programador-web/of-i0b0fb2cc9845e180941ddc0b8ecc8e",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3113,
+           "value": "Sistemas"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-10T11:14:05.000Z",
+        "updated": "2023-05-17T11:30:03.000Z",
+        "author": {
+           "id": "735a9b4e5d414a8da89006f41d32c3",
+           "privateId": 14471450164,
+           "name": "Orange España Servicios de Telemárketing",
+           "uri": "https://orange-espana.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/cd/cdfb7f95-beee-43aa-b666-f5a410c7bab6?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTYzOTEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9jZC9jZGZiN2Y5NS1iZWVlLTQzYWEtYjY2Ni1mNWE0MTBjN2JhYjYiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.nE9PqUuj_E4qNo-v7U5JSySTOkI43cpv6dZAI1NImTkox7POy6bjIITj69JN9ustEapjR21WqgV4O4DKULgfiN1A_Qik_hE475jS_FOY7gBraCJ3ea1_8V6UGgzPx8ed67hAI9qB_BtbJBcqTv8RBoSrc7r_Lc6MLYwT_V-SdakXjxOfkTimvveA_BWrRxjmYi9OL7IJGv_xWttoo5TnC0jK0iDwgzHUBm2t2fQOchntIjkm8RlLs6xOm0XCXZ71C8m8V3RZPbjjNkf8RggDRvAeQctiEOjk5saPYsT30RBMkO4gLTfxjlWuF0gzvEmaHkOhg_zWS_9emRsMKwvpsw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Experiencia de al menos un año en puestos de Programador/a web
+- Formación profesional en desarrollo de aplicaciones web, multiplataforma.
+- Conocimientos de programación HTML/CSS/JAVASCRIPT/PHP y SQL
+- Administración de base de datos (preferentemente PowerBi y QlikSense).",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "05837ccd9849e3a8ff4e169e77a250",
+        "title": "Desarrollador/a Web .NET",
+        "province": {
+           "id": 46,
+           "value": "Santa Cruz de Tenerife"
+        },
+        "city": "Santa Cruz de Tenerife",
+        "link": "https://www.infojobs.net/santa-cruz-de-tenerife/desarrollador-web-.net/of-i05837ccd9849e3a8ff4e169e77a250",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-26T12:49:54.000Z",
+        "updated": "2023-05-17T14:00:03.000Z",
+        "author": {
+           "id": "98555455534651726545671022288001509134",
+           "privateId": 43487326156,
+           "name": "HA-CONVFACT SL.",
+           "uri": "https://www.infojobs.net/ha-convfact-sl./em-i98555455534651726545671022288001509134",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Capacidad resolutiva y habilidades comunicativas.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "0c6026a95f491297c1c17accb20a95",
+        "title": "Desarrollador Web",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/desarrollador-web/of-i0c6026a95f491297c1c17accb20a95",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3109,
+           "value": "ERP, CRM, Business Intelligence"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "published": "2023-04-17T08:09:55.000Z",
+        "updated": "2023-05-15T10:00:03.000Z",
+        "author": {
+           "id": "181354424538203931536055154971",
+           "privateId": 1184788778,
+           "name": "Discama 3000 SL",
+           "uri": "https://www.infojobs.net/discama-3000-sl/em-i181354424538203931536055154971",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Más de 20.000€",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "04e88f9c99438c80aef886a554bf20",
+        "title": "Desarrollador Web",
+        "province": {
+           "id": 51,
+           "value": "Vizcaya/Bizkaia"
+        },
+        "city": "Bilbao",
+        "link": "https://www.infojobs.net/bilbao/desarrollador-web/of-i04e88f9c99438c80aef886a554bf20",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 260,
+           "value": "18.000 €"
+        },
+        "salaryMax": {
+           "id": 1320,
+           "value": "23.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-24T12:00:38.000Z",
+        "updated": "2023-05-15T13:30:03.000Z",
+        "author": {
+           "id": "98575355544652841041014014105823701311",
+           "privateId": 20678655936,
+           "name": "The Last Dock, S.L.",
+           "uri": "https://www.infojobs.net/the-last-dock-s.l./em-i98575355544652841041014014105823701311",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/f2/f2e292bb-0071-49b0-8d43-d77f1b69fbd0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTgzOTY0MTcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9mMi9mMmUyOTJiYi0wMDcxLTQ5YjAtOGQ0My1kNzdmMWI2OWZiZDAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.L0ySPRfCHh3AMtOO5icPxl2tbX-uwTf2is9FRHECoybIFtCTtJ6I-qbqwQlKPXaCDntjdXcpUF2elovsOh1WlSEEO7Xwwpqcmp26fS_ZHBf-y4d2q-iL6SNgMsHe2dT3FMbPaLYwObrJB7yGCfRezMha7fv0zH8ZZR8wMwImrV-zpSjmQTCeo3VW4SZ7bfzvRWi8I5InkmPy8yAukn9n_HhMPAB7Sn2pKidpjptDB1iCp9VJhctq-a7JA2gSye91s6qq1DhrjBHzJiQalNqUnMkVeHujAk-uFpx6P_E5ypvmFHfVc7adLvZQG8NAE3EK5ZYYnfFgacqPNFBnmKRyIQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Mínimo 2 años de experiencia demostrable en planificación y gestión de proyectos online en agencias digitales",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "18.000€ - 23.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "d4a4d2761148079cdb41341ed6bd17",
+        "title": "Desarrollador/a web WordPress",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Castelldefels",
+        "link": "https://www.infojobs.net/castelldefels/desarrollador-web-wordpress/of-id4a4d2761148079cdb41341ed6bd17",
+        "category": {
+           "id": 110,
+           "value": "Marketing y comunicación"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3071,
+           "value": "Marketing"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 50,
+           "value": "Bachillerato"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-12T11:54:47.000Z",
+        "updated": "2023-05-12T11:54:47.000Z",
+        "author": {
+           "id": "98545355485250739081856012044442205857",
+           "privateId": 14201756826,
+           "name": "IZQUIERDO MAS MOTTER CONSULTING SLU",
+           "uri": "https://www.infojobs.net/izquierdo-mas-motter-consulting-slu/em-i98545355485250739081856012044442205857",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Disponibilidad de Incorporación Inmediata.
+- Experiencia demostrable con proyectos reales en Diseño y Desarrollo Web.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "041d839e724f96b0ca84f63ac39bfa",
+        "title": "Desarrollador Web en PrestaShop",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-web-prestashop/of-i041d839e724f96b0ca84f63ac39bfa",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 270,
+           "value": "24.000 €"
+        },
+        "salaryMax": {
+           "id": 1340,
+           "value": "26.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 10,
+           "value": "Indiferente"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-21T09:04:48.000Z",
+        "updated": "2023-05-12T10:30:02.000Z",
+        "author": {
+           "id": "83150524528106671413235051630",
+           "privateId": 182069299,
+           "name": "PowerShop",
+           "uri": "https://www.infojobs.net/powershop/em-i83150524528106671413235051630",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "24.000€ - 26.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "1ea78a8e334e4abf9f544aaf4846fc",
+        "title": "Desarrollador/a web",
+        "province": {
+           "id": 41,
+           "value": "Salamanca"
+        },
+        "city": "Salamanca",
+        "link": "https://www.infojobs.net/salamanca/desarrollador-web/of-i1ea78a8e334e4abf9f544aaf4846fc",
+        "category": {
+           "id": 110,
+           "value": "Marketing y comunicación"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3071,
+           "value": "Marketing"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-05T09:35:15.000Z",
+        "updated": "2023-05-12T10:00:02.000Z",
+        "author": {
+           "id": "98525257534352657067325023054081202274",
+           "privateId": 47971276722,
+           "name": "AFC INVESTMENTS SL.",
+           "uri": "https://www.infojobs.net/afc-investments-sl./em-i98525257534352657067325023054081202274",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "707d4bf42748b68332cee18ef37e63",
+        "title": "Desarrollador Frontend Mobile-Web",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-frontend-mobile-web/of-i707d4bf42748b68332cee18ef37e63",
+        "category": {
+           "id": 180,
+           "value": "Otros"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3123,
+           "value": "Sin especificar"
+        },
+        "salaryMin": {
+           "id": 1350,
+           "value": "28.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-11T10:32:48.000Z",
+        "updated": "2023-05-11T10:32:48.000Z",
+        "author": {
+           "id": "98565556565648666973712018073920408276",
+           "privateId": 32799501396,
+           "name": "BEIGAR CONSULTORES",
+           "uri": "https://beigar.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/f7/f7dab9c1-cd08-48d1-b7b4-da3bd9ec1057?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTA1Nzc3NzQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9mNy9mN2RhYjljMS1jZDA4LTQ4ZDEtYjdiNC1kYTNiZDllYzEwNTciLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.PApnTIXcX-ENZmDEYSmc9d_tzQpJ6eOaYxqxdapJIJoh3PtvJgFsbEcRNPzVshFpWj1zF_Erq91Hf-N9iCb3Yv6RaV5pPqgX2-s76JegacbBgmskhTxU7sLz3cx31VlPc84H-umiv4AEvSpPIIeYmOpvOUnn4bzywi0bMmHvntxtZeWzmr1U6Y-o-NJ4OL0SBjTAT473mnKn0RMLpxqFJ9e7FNe9YiVQMmP1HP2qcBMljj3tob90HnOXo8M1jAz_cgGlMqcxrNrVsZbMN2H8wSSja2VsST9cbfDx6OiaaCfBtUBUkzKVATYEkOQo6N7n0VuBsDPHuJ5q3uGFJCyv2A&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Buscamos alguien con experiencia en desarrollo de páginas web integradas en móviles, tabletas u otros dispositivos, que conozca las restricciones que esto pueda implicar; con experiencia en desarrollo con React o Angular y maquetación de componentes e implementación de estos en Storybook.
+
+•	Desarrollo de páginas web basadas en React o Angular. 
+•	Desarrollo de los componentes en Storybook.
+•	Maquetación y ajuste del detalle en la parte frontal.
+•	Optimización de rendimiento para los navegadores de los dispositivos en uso.
+•	Test end to end de las aplicaciones desarrolladas
+
+Se valora mucho personas con inquietudes por aprender y que le atraigan retos tecnológicos relacionados con lA.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "28.000€ - 36.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "27339ca095457f91841b411bd962f3",
+        "title": "Desarrollador web para e-commerce",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Montorn??s del Vall??s",
+        "link": "https://www.infojobs.net/montornes-del-valles/desarrollador-web-para-commerce/of-i27339ca095457f91841b411bd962f3",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-03-30T16:54:45.000Z",
+        "updated": "2023-05-11T19:30:02.000Z",
+        "author": {
+           "id": "98545357515255657868825021263615909237",
+           "privateId": 41294144322,
+           "name": "ANDREANI MHS IBERICA SL",
+           "uri": "https://www.infojobs.net/andreani-mhs-iberica-sl/em-i98545357515255657868825021263615909237",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "a4bec6ff574d00a175effa9b8b4181",
+        "title": "Desarrollador web senior",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/desarrollador-web-senior/of-ia4bec6ff574d00a175effa9b8b4181",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 1350,
+           "value": "28.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-04T13:46:58.000Z",
+        "updated": "2023-05-11T14:00:03.000Z",
+        "author": {
+           "id": "98545454535555737873844020167342301063",
+           "privateId": 38145542102,
+           "name": "INITIUM SOFTWARE SL.",
+           "uri": "https://www.infojobs.net/initium-software-sl./em-i98545454535555737873844020167342301063",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/59/59d9f649-5b6d-4acf-941e-9e0bbff719d0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1ODc1MDI0OTMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy81OS81OWQ5ZjY0OS01YjZkLTRhY2YtOTQxZS05ZTBiYmZmNzE5ZDAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.EL7HZFaun0-1YBhPBdTUVkZEvnaJzL2OPjUrdAr7gFCb9Kk9TPfN7hPwiDo0gtpN1XxKpq0iQsnK9VYC3Bh8ZZHi0VLLoFuJwllrspIRIyZwL9Dtrao5taMNmMkeSxm3wHVKOEU5j8X-NBIjB9g_Xg8jcluxw09jp9sX3Q4tX10FLbdvnY7WHLvPV4N9Jk6NMMzLSaSZrDMJdmTBgTgV4Jf6LHe9qgbff-OchatiojWOJ5LubNvRdzCsPRkvA4ImHQnvBvxch88Y5sLQUC8L2_BKsgoNV-c6l1QxGmR0h2NQh3rTVmTJ_ifRg1_TuzbF_2T-PbyF_tQgJWTCtD5l6Q&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Jquery
+Javascrpt
+Maquetado Web ( Css, Less, Sass, Html)
+Control de versions (Git, gittflow
+Manejo de Frameworkd de Desarroloo Symfony 4+
+PHP 5.0+ (Orientado a objetos)
+Desarrollo orientado a servicios (Rest/ Resfull)
+ORM Doctrine
+MySQL
+Definición de Consultas con estándar Sq
+Apache",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "28.000€ - 36.000€ Bruto/año",
+        "multiProvince": true,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "2685a19b194829bbf128b7c890e34a",
+        "title": "DESARROLLADOR WEB",
+        "province": {
+           "id": 43,
+           "value": "Sevilla"
+        },
+        "city": "Sevilla",
+        "link": "https://www.infojobs.net/sevilla/desarrollador-web/of-i2685a19b194829bbf128b7c890e34a",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryMax": {
+           "id": 285,
+           "value": "33.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-10T12:43:10.000Z",
+        "updated": "2023-05-10T12:43:10.000Z",
+        "author": {
+           "id": "961757524526202350893215555770",
+           "privateId": 48730601,
+           "name": "ColaVoro",
+           "uri": "https://colavoro.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/87/875ee7af-13ef-4269-b7eb-9c89ce637300?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTU2NzEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy84Ny84NzVlZTdhZi0xM2VmLTQyNjktYjdlYi05Yzg5Y2U2MzczMDAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.KmD5yNbuJlbaun4wCHMLECer9jAajGRkUGsv_lnYdUR45wkFbVzecrUZ2Mh9SBSfRd2ww5d_zwvD4dTMwiBzwgNFHVQnFk8ZLnjqhD5KbLDeZGg--C1PCSE7ZF2Xquj3zoxEwfJgsyZ1QU0tztYCUsDgKampGtLWx-VpZi7gPzF84n5d1lj4VVvbhm9xHgE9MrMzJhYC9Jg8Uo7jG44t7nFF0rXmGLxabnIrFXVJr4whA7587XuWd6Q-JkC1vgNN_ngyfUQKrlq2BPS_uQCxycMSEnv6Zcg5tjc9_OG1GRnpUrDBnm8vaAhM-mI_u9nGVI0NeRPBvycvbIAc9bEHMg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Experiencia en desarrollo web, principalmente en Sencha Ext
+- Conocimientos de inglés a nivel de lectura
+
+Deseable: Java, Springboot, SVG, herramienta inskca, contenedores Kubernetes",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "30.000€ - 33.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "fdb215ce19465e8a0812be828ec595",
+        "title": "Desarrollador/a web con Prestashop | Híbrido",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/desarrollador-web-con-prestashop-hibrido/of-ifdb215ce19465e8a0812be828ec595",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-05-09T09:20:59.000Z",
+        "updated": "2023-05-09T09:20:59.000Z",
+        "author": {
+           "id": "f8f29b4b1c404f96a2da79b949fe6a",
+           "privateId": 31259821352,
+           "name": "ALTEN",
+           "uri": "https://alten.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/12/12bddf65-deb1-4ed4-a344-4879c768f52c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NzQxNjI5MDksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8xMi8xMmJkZGY2NS1kZWIxLTRlZDQtYTM0NC00ODc5Yzc2OGY1MmMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.FgQhSVWf-1Y8y3GXZNAvkbQX4a_PN_9uc0NUGKS3d764qqJCZF1AXd-KsgFo9NfiL0GbVTGBrNbYnzsRzDMMl0Hkg8wH1JeevolUZCOSa1WfTCKJREs7mCD_x1monRGyjqo4NebU97fdzvjoSRBT4RFQymGLKmEcMjEns6ve2TTkjAW5Ty4fwrhI_UMMju3_az5FCwoefvYmvmulAFbxUUTHt4ljeEA25phYftIfC_OW8WK8kjvrBxARoiDmmMas_puwSDXPFyl6Q_aZHygOgKTDR6HbToMLeANfBvxbaeG-LqRZyY_qhLacmGdG7aymJo6LcPsEwHKvuJNS7D1FeA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia de mínimo 1 año como desarrollador/a web
+Experiencia de 1 año con Prestashop
+Conocimientos en PHP, Javascript y Mysql
+Deseable conocimientos en Laravel",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "5ec2e5ff1549df942d9358c6a67d5f",
+        "title": "DESARROLLADOR WEB JAVA BACK TELETRABAJO",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-web-java-back-teletrabajo/of-i5ec2e5ff1549df942d9358c6a67d5f",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 4,
+           "value": "Al menos 4 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "teleworking": {
+           "id": 2,
+           "value": "Solo teletrabajo"
+        },
+        "published": "2023-05-09T08:26:10.000Z",
+        "updated": "2023-05-09T08:26:10.000Z",
+        "author": {
+           "id": "66565254564054758269764007124889105572",
+           "privateId": 2063893948,
+           "name": "KRELL CONSULTING & TRAINING",
+           "uri": "https://www.infojobs.net/krell-consulting-training/em-i66565254564054758269764007124889105572",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/04/04b4064f-9021-4532-880e-3cc511184862?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzkyNTIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wNC8wNGI0MDY0Zi05MDIxLTQ1MzItODgwZS0zY2M1MTExODQ4NjIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.PEaV7dec8hCxAHMqdopXtjkYItlD8KpSOvYxzmZ6yMHCcHOnjt9Q-PU-C2bpm9F8S8EGK-f0RucMPXsskmUsFK8dMT-90r5Q0Z_3RDvSe_XPdsRdlbwI52lkHNmQaSb_1l2N7ADwHOObDJX5EpTCB4dEoSKq-qr89FgndoVy0xlXGfGUniIkKTTjuXNvVwVn_mA3BmwGysRitjEOudtYLxPvNHEjfwfBIn4GGJPfGkLlCVd3cmQL74UxlSvpaQvhSYTDgRirpnA6zTcsHLYKqnzdTp50OKUeATUoNkEduMq9OEbRtEhZmcUHzzITW_YuZcwQCootcX-bhQjiAHhuVQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia en Java 1.8, JPA, JSF, Spring, Servicios REST y/o SOAP, PL-SQL.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "21ecb13bdf4ee2a7ead56cbea8ca3d",
+        "title": "DESARROLLADOR/A WEB - ANGULAR",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-web-angular/of-i21ecb13bdf4ee2a7ead56cbea8ca3d",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-03T13:24:39.000Z",
+        "updated": "2023-05-04T13:20:27.000Z",
+        "author": {
+           "id": "98565450545150881121088015175230901559",
+           "privateId": 25229698856,
+           "name": "Xplain AG Ibérica SL",
+           "uri": "https://www.infojobs.net/xplain-ag-iberica-sl/em-i98565450545150881121088015175230901559",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/23/23b40ffc-7489-41c3-8b4c-16e029d602fc?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1ODEzMDEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8yMy8yM2I0MGZmYy03NDg5LTQxYzMtOGI0Yy0xNmUwMjlkNjAyZmMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.H3gDtffCFI2T-nSrCCChM5ku3sOYwXgci6_woTCjSJX4O9G-LnLLmVsPZ65iJFaXM-pmSKtoDHbtgbfRi0ZfAPMS_NGIAFAlcOrGD9UvzPDfnwyY_X5wSrmjgRpV2bDCN732hRwpHVdYeaNZeoVGAMSLekQGxiADuHYXXnaV1EB5PvFswqpplsZSWSVpCTP0rkKCn2yMMwzL2gkcpV5tscZFu7lLJTLiLyRYTexrLvEoM8G8BbT8z79-8qbCsELbUXRQFKktvIPOdHKUwiu0VlsVUduTHXOlecVysbIV96XC11EmQLwCiEfhnroTvJyN02pWYBJq-xMFzZvOvI0cuA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Conocimientos sólidos en el desarrollo de software, en especial en la programación con Angular. 
+- Buenos conocimientos de inglés. Hablamos a diario con nuestros compañeros en Suiza.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "30.000€ - 36.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "09eb50c8834b4e923ccda8d1fe31dc",
+        "title": "DESARROLLADOR WEB WORDPRESS",
+        "province": {
+           "id": 34,
+           "value": "Málaga"
+        },
+        "city": "Málaga",
+        "link": "https://www.infojobs.net/malaga/desarrollador-web-wordpress/of-i09eb50c8834b4e923ccda8d1fe31dc",
+        "category": {
+           "id": 110,
+           "value": "Marketing y comunicación"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3071,
+           "value": "Marketing"
+        },
+        "salaryMin": {
+           "id": 1300,
+           "value": "20.000 €"
+        },
+        "salaryMax": {
+           "id": 1310,
+           "value": "22.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 6,
+           "value": "Intensiva - Mañana"
+        },
+        "study": {
+           "id": 10,
+           "value": "Sin estudios"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-05-01T10:55:17.000Z",
+        "updated": "2023-05-01T10:55:17.000Z",
+        "author": {
+           "id": "98575150495252676978843022283981702205",
+           "privateId": 44094898500,
+           "name": "CENTRALIZA TIC SL.",
+           "uri": "https://www.infojobs.net/centraliza-tic-sl./em-i98575150495252676978843022283981702205",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "20.000€ - 22.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "40aa24e9ad447ab52991ed5eb01e09",
+        "title": "Desarrollador/a Web experto en Wordpress",
+        "province": {
+           "id": 20,
+           "value": "Las Palmas"
+        },
+        "city": "Las Palmas de Gran Canaria",
+        "link": "https://www.infojobs.net/las-palmas-de-gran-canaria/desarrollador-web-experto-wordpress/of-i40aa24e9ad447ab52991ed5eb01e09",
+        "category": {
+           "id": 50,
+           "value": "Diseño y artes gráficas"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3030,
+           "value": "Diseño web"
+        },
+        "salaryMin": {
+           "id": 1260,
+           "value": "14.000 €"
+        },
+        "salaryMax": {
+           "id": 255,
+           "value": "15.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-04-28T10:25:31.000Z",
+        "updated": "2023-04-28T10:25:31.000Z",
+        "author": {
+           "id": "954449524538006480126625351040",
+           "privateId": 1331999018,
+           "name": "SERVIDIS FACILITY SERVICES",
+           "uri": "https://www.infojobs.net/servidis-facility-services/em-i954449524538006480126625351040",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b2/b2f07d30-8979-4d85-bb10-5bb856cd1cfa?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NjM3NTc5MDEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iMi9iMmYwN2QzMC04OTc5LTRkODUtYmIxMC01YmI4NTZjZDFjZmEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.k9ge9EePvPbgxDGr9WS5Z84an_6YjtODN1LP_y2A1mcJYq7arFESvzDtwla_uBMV8epuucPfrSTDbKygcVsXpgE_alUzsDD9SH1BkXVToie0DnFnMwKM-heKfMAzrPstf_buBdNUyLN3ffgdrJbyct3O5Sla6Msqmoh4KNEb0VctTAXoZLkB1ZpCjPnUmTgjh1kE78QwWffMYh9NV_0FcEG4Egyx2Vt0L6Eo-refeUJjIowla7l-hI_7ReRmydT0N7dCzKIZKud3_dpFt0TS5X4QWF9L929b1kzPiiVh6j_RsUUDG9G2r9u9slyHxi04f88D9I87sph9e2olHWELjw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "-Técnico superior de desarrollo Web o similares.
+- Disponibilidad de Incorporación Inmediata",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "14.000€ - 15.000€ Bruto/año",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "d157e223194c7aa1a6fa247bca517f",
+        "title": "Desarrollador/a Web",
+        "province": {
+           "id": 20,
+           "value": "Las Palmas"
+        },
+        "city": "Telde",
+        "link": "https://www.infojobs.net/telde/desarrollador-web/of-id157e223194c7aa1a6fa247bca517f",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "teleworking": {
+           "id": 3,
+           "value": "Híbrido"
+        },
+        "published": "2023-04-27T13:00:35.000Z",
+        "updated": "2023-04-27T13:00:35.000Z",
+        "author": {
+           "id": "768349524533001550825155452532",
+           "privateId": 535210374,
+           "name": "Contactel Teleservicios",
+           "uri": "https://contactel.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/39/395e93a0-5cca-40d0-8bc9-b12565cb79d0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTQxOTksInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8zOS8zOTVlOTNhMC01Y2NhLTQwZDAtOGJjOS1iMTI1NjVjYjc5ZDAiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.cuqsvprXTSj2smXP25o-YWdK7aldHz8LWPK56CX8Duc5NiIS5hsSFjHSSwBsCUCXzE9Ezq49NgpaGuT1v6nZAHq_PhZ4BZKqiEoXjuL7ZgRbHmgSDcVpGbL99B-lBPIsir1lZ-YYb6SCYhuzzpHAavmgksFHx40xcdFg-BcRcSyxVolPCMEC3--cmCV3PP8Uast888nCkTqhk2OPSMkyLmGLBas6qzXelxiMpfQ21IBrLG065-hraD75YsYZ5aTRqTBhj2SplI3kQ31nimnk6cpJMdxt8I-Ct7ruxBPrv1qTnasE66iz9DlaoMgWN3azhkknS_S--DMww58QwNBpzQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Se requiere:
+- Ciclo Superior en Desarrollo de Aplicaciones Web o similar.
+- Al menos 2 años de experiencia con lenguajes de programación JavaScript, TypeScript, HTML5 y en bibliotecas React.
+- Valorable conocimientos en Rust.
+- Trabajo en equipo.
+- Autonomía
+-Autoaprendizaje
+- Organización y método.
+Se ofrece:
+Formación personalizada y a cargo de la empresa.
+Proyectos de alta envergadura.",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     },
+     {
+        "id": "dbc6d9d34f4392b321d6627f53882d",
+        "title": "Desarrollador Web Frontend Backend PHP",
+        "province": {
+           "id": 4,
+           "value": "Alicante/Alacant"
+        },
+        "city": "Alcoy/Alcoi",
+        "link": "https://www.infojobs.net/alcoy-alcoi/desarrollador-web-frontend-backend-php/of-idbc6d9d34f4392b321d6627f53882d",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3114,
+           "value": "Telecomunicaciones"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "teleworking": {
+           "id": 1,
+           "value": "Presencial"
+        },
+        "published": "2023-04-28T08:51:04.000Z",
+        "updated": "2023-04-28T08:51:04.000Z",
+        "author": {
+           "id": "66535157545548656883651008074640901487",
+           "privateId": 2363275750,
+           "name": "ADSALSA PUBLICIDAD",
+           "uri": "https://www.infojobs.net/adsalsa-publicidad/em-i66535157545548656883651008074640901487",
+           "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a3/a38541bf-34f0-489d-b3f2-c64d217e432a?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTM2NzI4MDIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hMy9hMzg1NDFiZi0zNGYwLTQ4OWQtYjNmMi1jNjRkMjE3ZTQzMmEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.cQXZx8KhyTeXA7VsIVf1DNmD8b4D12V2aBwA1VlZcz3eek5nHubGRIIAjnmsPgc_igtTR7yLUSOwtRPiFwIw70cLrsmrO57a5pAIvPVi8l_2BKdD558C98MXiYIQYEwubgUhaVtsAGgW8C6sLN_6lmWjyv-vFJ3bcImTIZ2EIIkfaBvDU3MKqdCZjb6aNTQ0g6wBLSU0zBDGOUYA_V1yMWmNW1DaM5AUxZLGCNIwUfPuaYsl0uCgmPgLHUtzWcfAY5SGbw2KKvmm2tMbe0dIf2pamdq41ueX63kHYdBpdho7UHyOaO7KuX15QwOud2dpZ_q9bchU33IKIRWk39_LhA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible",
+        "multiProvince": false,
+        "urgent": false,
+        "color": false
+     }
+  ]
+}
