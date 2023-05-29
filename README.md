@@ -10,3 +10,5 @@ Para mejorar la experiencia del usuario he añadido **una terecera columna donde
 los detalles de la oferta desde la misma ventana**.
 
 ![Captura web](/public/captura.png)
+
+Enlace a la web -> https://hackathon-infojobs-diloes.netlify.app/
