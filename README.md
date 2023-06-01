@@ -9,6 +9,12 @@ otra ventana o pestaña.
 Para mejorar la experiencia del usuario he añadido **una terecera columna donde se pueden ver
 los detalles de la oferta desde la misma ventana**.
 
+### Valoración de Midudev 
+
+https://clips.twitch.tv/CrispyStupidThymeBrokeBack-mpGiU-iRVL_gaCDe
+
+### Preview
+
 ![Captura web](/public/captura.png)
 
 Enlace a la web -> https://hackathon-infojobs-diloes.netlify.app/
